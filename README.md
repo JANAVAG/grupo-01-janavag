@@ -6,6 +6,7 @@ Hacer un script que tenga una lista de 5 mascotas: perro, gato, tortuga,pez,cobr
 
 ```
 <div align="center">
+
 | VARIABLE     | ACTIVIDADES A REALIZAR |
 |--------------|------------------------|
 | PERRO        |        !GUAU!          |
