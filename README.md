@@ -89,16 +89,15 @@ fi
 ### EJECUCIÓN:
 
 <p align="center">
-<img src="images/perro.png" width="800">
+<img src="images/perro.PNG" width="800">
+GNG" width="800">
 
-<img src="images/gato.png" width="800">
+<img src="images/pez.PNG" width="800">
 
-<img src="images/pez.png" width="800">
+<img src="images/tortuga.PNG" width="800">
 
-<img src="images/tortuga.png" width="800">
+<img src="images/cobra.PNG" width="800">
 
-<img src="images/cobra.png" width="800">
-
-<img src="images/otro.png" width="800">
+<img src="images/otro.PNG" width="800">
 
 </p>
