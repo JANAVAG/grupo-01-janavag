@@ -82,5 +82,6 @@ else
         sleep 1
         echo "No contamos con ese animal :( "
 fi
-</div>
+
 ```
+</div>
