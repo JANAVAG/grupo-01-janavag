@@ -6,14 +6,16 @@ Hacer un script que tenga una lista de 5 mascotas: **perro**, **gato**, **tortug
 
 | VARIABLE     | ACTIVIDADES A REALIZAR |
 |--------------|------------------------|
-| PERRO        | !GUAU!                 |
-| GATO         |¡MIAU!                  |
-| TORTUGA      | "..."                  |
-| PEZ          |¡GLU GLU!               |
-|COBRA         |¡ZZZZ!                  |
+| PERRO        |        !GUAU!          |
+| GATO         |        ¡MIAU!          |
+| TORTUGA      |        "..."           |
+| PEZ          |       ¡GLU GLU!        |
+|COBRA         |        ¡ZZZZ!          |
 
 </div>
 
 <div align="center">
+
 ### SCRIPT
+
 </div>
