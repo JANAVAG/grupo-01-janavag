@@ -9,7 +9,7 @@ Hacer un script que tenga una lista de 5 mascotas: perro, gato, tortuga,pez,cobr
 
 | VARIABLE     | ACTIVIDADES A REALIZAR |
 |--------------|------------------------|
-| PERRO        |        !GUAU!          |
+| PERRO        |  <text align="center">      !GUAU! </text>          |
 | GATO         |        ¡MIAU!          |
 | TORTUGA      |        "..."           |
 | PEZ          |       ¡GLU GLU!        |
