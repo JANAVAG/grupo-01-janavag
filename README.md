@@ -3,6 +3,7 @@
 ## Especificaciones:
 Hacer un script que tenga una lista de 5 mascotas: **perro**, **gato**, **tortuga**,**pez**,**cobra** 
 <div align="center">
+
 | VARIABLE     | ACTIVIDADES A REALIZAR |
 |--------------|------------------------|
 | PERRO        | !GUAU!                 |
@@ -10,7 +11,9 @@ Hacer un script que tenga una lista de 5 mascotas: **perro**, **gato**, **tortug
 | TORTUGA      | "..."                  |
 | PEZ          |¡GLU GLU!               |
 |COBRA         |¡ZZZZ!                  |
+
 </div>
+
 <div align="center">
 ### SCRIPT
 </div>
