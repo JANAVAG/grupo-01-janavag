@@ -20,6 +20,7 @@ Hacer un script que tenga una lista de 5 mascotas: perro, gato, tortuga,pez,cobr
 ### SCRIPT
 
 <div align="center">
+
 ```
 #!/bin/bash
 perro(){
