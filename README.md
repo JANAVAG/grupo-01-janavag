@@ -2,10 +2,10 @@
 
 ## Especificaciones:
 ```
-Hacer un script que tenga una lista de 5 mascotas: **perro**, **gato**, **tortuga**,**pez**,**cobra** 
-<div align="center">
-```
+Hacer un script que tenga una lista de 5 mascotas: perro, gato, tortuga,pez,cobra 
 
+```
+<div align="center">
 | VARIABLE     | ACTIVIDADES A REALIZAR |
 |--------------|------------------------|
 | PERRO        |        !GUAU!          |
